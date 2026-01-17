@@ -1,4 +1,4 @@
-# Logical Operations in python
+# Comparison Operations in python
 first_num = 100
 sec_num = 50
 
